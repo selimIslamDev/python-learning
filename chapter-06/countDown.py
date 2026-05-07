@@ -1,6 +1,3 @@
-# Goal:
-# Print a countdown before something "exciting" happens (like "Launching..."
-# "Happy New Year!").
 
 
 import time
