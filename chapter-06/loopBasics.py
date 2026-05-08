@@ -1,6 +1,4 @@
-# while loop and for loop
 
-#while loop 
 number = 1
 
 while number <= 50:
