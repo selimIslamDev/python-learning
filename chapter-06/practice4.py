@@ -1,5 +1,4 @@
-# Write a program to print this pattern using a while loop:
-# *
+
 # * *
 # * * *
 # * * * *
